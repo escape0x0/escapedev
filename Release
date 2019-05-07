@@ -1,0 +1,8 @@
+Origin: escape
+Label: escape's repo
+Suite: stable
+Version: 1.0
+Codename: escaperepo
+Architectures: iphoneos-arm
+Components: main
+Description: escape's Cydia repo
