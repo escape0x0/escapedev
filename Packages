@@ -1,0 +1,14 @@
+Package: com.ra1n.welcomemsg
+Version: 0.0.1-4
+Section: Tweaks
+Maintainer: al0ne
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/com.ra1n.welcomemsg_0.0.1-4+debug_iphoneos-arm.deb
+Size: 4184
+Installed-Size: 152
+MD5sum: 47dcbd75778c4b7ba406abd329e8134f
+Description: A dev tweak.
+Name: welcomeMsg
+Author: al0ne
+
